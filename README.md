@@ -9,7 +9,7 @@ A simple API to CRUD users
 ### Instalation
 -  Excecute the `composer install` command 
 -  Configure the database in **database\DB** class
--  run the `php -S localhost:3000` command in the root of the project
+-  run the `php -S localhost:3000` command in the **public** directory of the project
 
 ### Routes
 
